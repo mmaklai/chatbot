@@ -12,7 +12,7 @@ const darkTheme = createTheme({
       main: '#90EE90', // Light green
     },
     secondary: {
-      main: '#f48fb1', // Light pink
+      main: '#ADD8E6', // Light pink
     },
     background: {
       default: '#006400', 
